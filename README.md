@@ -1,5 +1,5 @@
 # Welcome to my Github Profile! 👋
-- 👋 Hi, I’m @Munsif-Ali
+- 👋 Hi, I’m **Munsif Ali**
 
 I am a computer science student in my 8th semester at the University of Peshawar 🎓, where I am furthering my education and expanding my knowledge in the field. I work as a Flutter Developer at Khybercoded.pk 💼, creating beautiful and functional mobile applications 📱.
 
